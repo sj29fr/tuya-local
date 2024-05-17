@@ -20,6 +20,7 @@
 - Eurom Alutherm 1000,1500,2000,2500 heaters
 - Eurom Hot-Shot 2000 heaters
 - Eurom Mon Soleil 300,600,800, 350,601,720 and 300,450,720 Verre heaters
+- Eurom Sani heated towel rail
 - Eurom Sani Wall Heat 2000 heater
 - Eurom Wall Designheat 2000 heater
 - Goldair heater models beginning with the code GPPH, GCPV, GECO
@@ -61,6 +62,7 @@
 - Arlec PA1123BKHA portable air conditioner
 - Be Cool BC14KL2101F
 - Carson CB PA280
+- Confortotal CICON242 mini split air conditioner
 - Cooper&Hunter Nordic Evo Ng
 - Costway portable air conditioner
 - Daewoo Dhome OL-A011 air conditioner (DA9KWE)
@@ -339,8 +341,9 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PJ-1103 power clamp meter
-- SG600MD Smart Solar Inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
+- SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
 - SmartMCB SMT006 energy meter (10 byte and 8 byte phase info variants)
+- Stepuptech SG800 solar inverter
 - Taxnele circuit breaker and energy meter
 - TOMPD-63LW energy meter circuit breaker
 - Tongou QCB2-WB WiFi 4P circuit breaker (3-phase and single phase variants)
@@ -560,6 +563,7 @@ of device.
 - Neatsvor X600 vacuum cleaner
 - Proscenic M9 vacuum cleaner
 - Rinkmo D2 vacuum cleaner
+- Tefal X-plorer serie 75 animal vacuum 
 - Tesvor S6 vacuum cleaner with mop
 - TTEC Robi Pro vacuum cleaner
 - Ultenic T10 vacuum cleaner
@@ -644,7 +648,7 @@ port and password.
 - Holman WX8 8 sprinkler irrigation controller
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
-- SH07-8 smart sprinkler controller
+- SH07-8 / SH07S-TY smart sprinkler controller (sold as Aquarobo and other brands)
 - Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
 ### Miscellaneous
